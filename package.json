@@ -1,0 +1,15 @@
+{
+  "name": "ft-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "@faker-js/faker": "8.4.1"
+  }
+}
